@@ -1,4 +1,4 @@
-# project1info
+# project1info-FBI Crime Analysis
 # Guidelines for Project 1
 
 This document contains guidelines, requirements, and suggestions for Project 1.
